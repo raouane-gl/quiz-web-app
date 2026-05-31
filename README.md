@@ -39,4 +39,7 @@ This project is a web-based quiz application that allows users to answer questio
 
 
 ## Preview
-![Quiz App Screenshot](screenshot.jpg)
+![Quiz App Screenshot](screenshot1.jpg)
+![Quiz App Screenshot](screenshot2.jpg)
+![Quiz App Screenshot](screenshot3.jpg)
+![Quiz App Screenshot](screenshot4.jpg)
