@@ -36,3 +36,7 @@ This project is a web-based quiz application that allows users to answer questio
 * Improve UI/UX design
 * Add timer for quiz
 * Store user scores history
+
+
+## Preview
+![Quiz App Screenshot](screenshot.png)
